@@ -1,0 +1,50 @@
+name: felipe.heathcote
+description: dynamic
+version: 0.0.1
+author: qvifguzj.jxtg0rwx@ytoq8exy.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: felipeheathcote
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-07-04 21:02:36'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-07-04 21:02:36'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-07-04T21:02:36.055051Z'
+  name: plibMaven
+  version: 7.1.81
+  id: '1514342576'
+  createdAt: '2025-07-04T21:02:36.055051Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
